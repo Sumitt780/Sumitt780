@@ -175,7 +175,7 @@ A campus-focused web application that helps students **report, search and manage
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitt780&theme=tokyo-night&hide_border=true&area=true"
+    src="./profile/activity-graph.svg"
     width="100%"
     alt="GitHub Activity Graph"
   />
