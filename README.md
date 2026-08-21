@@ -17,7 +17,7 @@
   <a href="https://github.com/Sumitt780">
     <img src="https://img.shields.io/badge/GitHub-Sumitt780-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/sumit-sharma123">
+  <a href="https://linkedin.com/in/sumit-sharma-aiml">
     <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/sumit_codes_02/">
