@@ -105,25 +105,24 @@ A campus-focused web application that helps students **report, search and manage
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Sumitt780&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"
+    src="./profile/github-trophy.svg"
     width="100%"
     alt="GitHub Trophies"
   />
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sumitt780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="./profile/github-stats.svg"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitt780&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-languages.svg"
     height="180"
     alt="Top Languages"
   />
