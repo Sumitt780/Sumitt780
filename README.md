@@ -134,7 +134,7 @@ A campus-focused web application that helps students **report, search and manage
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Sumitt780&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Sumitt780&theme=tokyonight&hide_border=true&border_radius=10"
     width="495"
     alt="GitHub Streak"
   />
