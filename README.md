@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **sumit sharma**
+# 👋 Hi, I'm **Sumit Sharma**
 
 ### 🎓 B.Tech CSE (AI & ML) Student | 💻 Aspiring Software Developer | 🤖 ML Enthusiast
 
