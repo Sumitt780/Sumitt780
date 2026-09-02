@@ -38,7 +38,7 @@
 
 💻 Interested in **Software Development, Full-Stack Development & Machine Learning**
 
-🔭 Currently working on **Campus Lost & Found**
+🔭 Currently working on **AI Resume Analyzer**
 
 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, Deep Learning & Full-Stack Development**
 
